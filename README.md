@@ -16,11 +16,9 @@ Node
 NPM
 React
 
-DEMO
 
-https://wiki-hub-derson-dawson-master.vercel.app/ Como Funciona a Aplicação
 
-Uma wiki comum
+Uma page de login comum
 
 Abra o terminal e digite: git clone https://github.com/DersonDawson/login-DersonDawson-master
 
